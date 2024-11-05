@@ -78,4 +78,3 @@ This project demonstrates a robust analog filter design combining advanced techn
 - **Communication Devices:** Improves clarity by isolating desired signal frequencies.
 - **Medical Devices:** Ensures accurate signal processing in diagnostic equipment.
 
-This overview provides a comprehensive look at the project, balancing detailed technical insights with accessible explanations to cater to both specialists and those with a general interest in electronics.
